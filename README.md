@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ukey54
 - 👀 I’m interested in Java EE, Full Stack Development
-- 🌱 I’m currently learning BTech
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Full Stack Development at FYND Academy
+- 💞️ I’m looking to collaborate on anything...
 - 📫 How to reach me Email :- uhemant1@gmail.com
 
 <!---
